@@ -1,3 +1,3 @@
 # api-carros 
 
-### CRUD simples com MySQL + Node.js :)
+### Desenvolvimento de uma API com Node JS e Mysql, criando um CRUD completo do zero.
