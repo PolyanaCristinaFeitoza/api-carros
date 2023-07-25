@@ -49,4 +49,4 @@ Se o servidor for iniciado com sucesso, você verá uma mensagem indicando que o
 
 # Testar a API
 
-Com o servidor em execução, você pode testar a API usando ferramentas como o Postman ou o Insomnia. Envie requisições HTTP para os endpoints definidos na API para criar, ler, atualizar e deletar registros no banco de dados MySQL.
+### CRUD simples com MySQL + Node.js :)
