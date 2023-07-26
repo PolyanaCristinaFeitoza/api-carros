@@ -28,7 +28,7 @@ Isso instalará todas as dependências necessárias para executar o projeto.
 
 ## Configuração do Banco de Dados
 
-Certifique-se de incluir o host, usuário, senha e nome do seu banco de dados ao arquivo ```variaveis.env.``` Exemplo:
+Certifique-se de incluir o host, usuário, senha e nome do seu banco de dados ao arquivo ```variaveis.env```. Exemplo:
 
 ``` bash
 DB_HOST = host
